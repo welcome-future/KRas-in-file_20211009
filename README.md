@@ -1,2 +1,2 @@
-# Input files of KRaspaper_20211009
-These files are provided for setting up REMD simulation of KRas systems. 
+# Input files of KRas paper 20211009
+This fold provides all input files for REMD equilibriation of KRas systems. 
