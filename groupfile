@@ -1,0 +1,192 @@
+# Replica 001
+-i equil.mdin.rep.001 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.001 -r equil.rst.rep.001 -x equil.crd.rep.001
+
+# Replica 002
+-i equil.mdin.rep.002 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.002 -r equil.rst.rep.002 -x equil.crd.rep.002
+
+# Replica 003
+-i equil.mdin.rep.003 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.003 -r equil.rst.rep.003 -x equil.crd.rep.003
+
+# Replica 004
+-i equil.mdin.rep.004 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.004 -r equil.rst.rep.004 -x equil.crd.rep.004
+
+# Replica 005
+-i equil.mdin.rep.005 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.005 -r equil.rst.rep.005 -x equil.crd.rep.005
+
+# Replica 006
+-i equil.mdin.rep.006 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.006 -r equil.rst.rep.006 -x equil.crd.rep.006
+
+# Replica 007
+-i equil.mdin.rep.007 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.007 -r equil.rst.rep.007 -x equil.crd.rep.007
+
+# Replica 008
+-i equil.mdin.rep.008 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.008 -r equil.rst.rep.008 -x equil.crd.rep.008
+
+# Replica 009
+-i equil.mdin.rep.009 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.009 -r equil.rst.rep.009 -x equil.crd.rep.009
+
+# Replica 010
+-i equil.mdin.rep.010 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.010 -r equil.rst.rep.010 -x equil.crd.rep.010
+
+# Replica 011
+-i equil.mdin.rep.011 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.011 -r equil.rst.rep.011 -x equil.crd.rep.011
+
+# Replica 012
+-i equil.mdin.rep.012 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.012 -r equil.rst.rep.012 -x equil.crd.rep.012
+
+# Replica 013
+-i equil.mdin.rep.013 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.013 -r equil.rst.rep.013 -x equil.crd.rep.013
+
+# Replica 014
+-i equil.mdin.rep.014 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.014 -r equil.rst.rep.014 -x equil.crd.rep.014
+
+# Replica 015
+-i equil.mdin.rep.015 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.015 -r equil.rst.rep.015 -x equil.crd.rep.015
+
+# Replica 016
+-i equil.mdin.rep.016 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.016 -r equil.rst.rep.016 -x equil.crd.rep.016
+
+# Replica 017
+-i equil.mdin.rep.017 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.017 -r equil.rst.rep.017 -x equil.crd.rep.017
+
+# Replica 018
+-i equil.mdin.rep.018 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.018 -r equil.rst.rep.018 -x equil.crd.rep.018
+
+# Replica 019
+-i equil.mdin.rep.019 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.019 -r equil.rst.rep.019 -x equil.crd.rep.019
+
+# Replica 020
+-i equil.mdin.rep.020 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.020 -r equil.rst.rep.020 -x equil.crd.rep.020
+
+# Replica 021
+-i equil.mdin.rep.021 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.021 -r equil.rst.rep.021 -x equil.crd.rep.021
+
+# Replica 022
+-i equil.mdin.rep.022 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.022 -r equil.rst.rep.022 -x equil.crd.rep.022
+
+# Replica 023
+-i equil.mdin.rep.023 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.023 -r equil.rst.rep.023 -x equil.crd.rep.023
+
+# Replica 024
+-i equil.mdin.rep.024 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.024 -r equil.rst.rep.024 -x equil.crd.rep.024
+
+# Replica 025
+-i equil.mdin.rep.025 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.025 -r equil.rst.rep.025 -x equil.crd.rep.025
+
+# Replica 026
+-i equil.mdin.rep.026 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.026 -r equil.rst.rep.026 -x equil.crd.rep.026
+
+# Replica 027
+-i equil.mdin.rep.027 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.027 -r equil.rst.rep.027 -x equil.crd.rep.027
+
+# Replica 028
+-i equil.mdin.rep.028 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.028 -r equil.rst.rep.028 -x equil.crd.rep.028
+
+# Replica 029
+-i equil.mdin.rep.029 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.029 -r equil.rst.rep.029 -x equil.crd.rep.029
+
+# Replica 030
+-i equil.mdin.rep.030 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.030 -r equil.rst.rep.030 -x equil.crd.rep.030
+
+# Replica 031
+-i equil.mdin.rep.031 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.031 -r equil.rst.rep.031 -x equil.crd.rep.031
+
+# Replica 032
+-i equil.mdin.rep.032 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.032 -r equil.rst.rep.032 -x equil.crd.rep.032
+
+# Replica 033
+-i equil.mdin.rep.033 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.033 -r equil.rst.rep.033 -x equil.crd.rep.033
+
+# Replica 034
+-i equil.mdin.rep.034 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.034 -r equil.rst.rep.034 -x equil.crd.rep.034
+
+# Replica 035
+-i equil.mdin.rep.035 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.035 -r equil.rst.rep.035 -x equil.crd.rep.035
+
+# Replica 036
+-i equil.mdin.rep.036 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.036 -r equil.rst.rep.036 -x equil.crd.rep.036
+
+# Replica 037
+-i equil.mdin.rep.037 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.037 -r equil.rst.rep.037 -x equil.crd.rep.037
+
+# Replica 038
+-i equil.mdin.rep.038 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.038 -r equil.rst.rep.038 -x equil.crd.rep.038
+
+# Replica 039
+-i equil.mdin.rep.039 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.039 -r equil.rst.rep.039 -x equil.crd.rep.039
+
+# Replica 040
+-i equil.mdin.rep.040 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.040 -r equil.rst.rep.040 -x equil.crd.rep.040
+
+# Replica 041
+-i equil.mdin.rep.041 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.041 -r equil.rst.rep.041 -x equil.crd.rep.041
+
+# Replica 042
+-i equil.mdin.rep.042 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.042 -r equil.rst.rep.042 -x equil.crd.rep.042
+
+# Replica 043
+-i equil.mdin.rep.043 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.043 -r equil.rst.rep.043 -x equil.crd.rep.043
+
+# Replica 044
+-i equil.mdin.rep.044 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.044 -r equil.rst.rep.044 -x equil.crd.rep.044
+
+# Replica 045
+-i equil.mdin.rep.045 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.045 -r equil.rst.rep.045 -x equil.crd.rep.045
+
+# Replica 046
+-i equil.mdin.rep.046 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.046 -r equil.rst.rep.046 -x equil.crd.rep.046
+
+# Replica 047
+-i equil.mdin.rep.047 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.047 -r equil.rst.rep.047 -x equil.crd.rep.047
+
+# Replica 048
+-i equil.mdin.rep.048 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.048 -r equil.rst.rep.048 -x equil.crd.rep.048
+
+# Replica 049
+-i equil.mdin.rep.049 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.049 -r equil.rst.rep.049 -x equil.crd.rep.049
+
+# Replica 050
+-i equil.mdin.rep.050 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.050 -r equil.rst.rep.050 -x equil.crd.rep.050
+
+# Replica 051
+-i equil.mdin.rep.051 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.051 -r equil.rst.rep.051 -x equil.crd.rep.051
+
+# Replica 052
+-i equil.mdin.rep.052 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.052 -r equil.rst.rep.052 -x equil.crd.rep.052
+
+# Replica 053
+-i equil.mdin.rep.053 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.053 -r equil.rst.rep.053 -x equil.crd.rep.053
+
+# Replica 054
+-i equil.mdin.rep.054 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.054 -r equil.rst.rep.054 -x equil.crd.rep.054
+
+# Replica 055
+-i equil.mdin.rep.055 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.055 -r equil.rst.rep.055 -x equil.crd.rep.055
+
+# Replica 056
+-i equil.mdin.rep.056 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.056 -r equil.rst.rep.056 -x equil.crd.rep.056
+
+# Replica 057
+-i equil.mdin.rep.057 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.057 -r equil.rst.rep.057 -x equil.crd.rep.057
+
+# Replica 058
+-i equil.mdin.rep.058 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.058 -r equil.rst.rep.058 -x equil.crd.rep.058
+
+# Replica 059
+-i equil.mdin.rep.059 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.059 -r equil.rst.rep.059 -x equil.crd.rep.059
+
+# Replica 060
+-i equil.mdin.rep.060 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.060 -r equil.rst.rep.060 -x equil.crd.rep.060
+
+# Replica 061
+-i equil.mdin.rep.061 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.061 -r equil.rst.rep.061 -x equil.crd.rep.061
+
+# Replica 062
+-i equil.mdin.rep.062 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.062 -r equil.rst.rep.062 -x equil.crd.rep.062
+
+# Replica 063
+-i equil.mdin.rep.063 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.063 -r equil.rst.rep.063 -x equil.crd.rep.063
+
+# Replica 064
+-i equil.mdin.rep.064 -p ../pre_md/complex_solv.prmtop -c ../pre_md/o_heat_npt2.rst -o equil.out.rep.064 -r equil.rst.rep.064 -x equil.crd.rep.064
+
