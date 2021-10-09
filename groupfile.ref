@@ -1,0 +1,2 @@
+# Replica REPNUM
+-i remd.mdin.rep.REPNUM -p ../../pre_md/complex_solv.prmtop -c ../../equil/equil.rst.rep.REPNUM -o remd.out.rep.REPNUM -r remd.rst.rep.REPNUM -x remd.crd.rep.REPNUM
