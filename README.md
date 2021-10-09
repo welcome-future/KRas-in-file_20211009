@@ -1,2 +1,3 @@
 # Input files of KRaspaper_20211009
-These files are provided for setting up REMD simulation of KRas systems. 
+
+The complex_solv.prmtop and complex_solv.inpcrd files in this fold are the initial structures for the REMD simulation of KRasGDP system. 
