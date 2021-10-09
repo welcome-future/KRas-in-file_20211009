@@ -1,2 +1,3 @@
-# KRas-in-file_20211009
-These files are provided for setting up REMD simulation of KRas systems. 
+# Input files for canonical MD simulation in KRas paper 20211009
+
+This fold inculdes all input files for canonical MD simulation in the paper of KRas.
